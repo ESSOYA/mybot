@@ -36,10 +36,10 @@ global.APIKeys = {
 
 
 //aumto functioner
-global.autoTyping = false //auto tying in gc (true to on, false to off)
-global.autoreadpmngc = false //auto reading in gc and pm (true to on, false to off)
+global.autoTyping = true //auto tying in gc (true to on, false to off)
+global.autoreadpmngc = true //auto reading in gc and pm (true to on, false to off)
 global.autoReadGc = true //auto reading in gc (true to on, false to off)
-global.autoRecord = false //auto recording (true to on, false to off)
+global.autoRecord = true //auto recording (true to on, false to off)
 global.available = true //auto available (true to on, false to off)
 
 //semt menu variants
@@ -56,21 +56,21 @@ global.doc6 = 'application/vnd.android.package-archive'
 //owmner v card
 global.vcardowner = ['24106813542'] //ur owner number
 global.ownername = "🦄YARANUSTRAS" //ur owner name
-global.ytname = "YT: Xeon" //ur yt chanel name
-global.socialm = "GitHub: DGXeon" //ur github or insta name
-global.location = "India, Mizoram, Aizawl" //ur location
+global.ytname = "YT: ESSOYA" //ur yt chanel name
+global.socialm = "GitHub: ESSOYA" //ur github or insta name
+global.location = "GABON, ESTUAIRE, LIBREVILLE" //ur location
 
 //bot bomdy 
 global.owner = ['24106813542']
 global.ownertag = '24106813542' //ur tag number
-global.botname = 'WHATSAPP BOT V4' //ur bot name
-global.linkz = "https://youtu.be/WiIqCdiDjFo" //your theme url which will be displayed on whatsapp
-global.websitex = "https://youtu.be/WiIqCdiDjFo" //ur website to be displayed
-global.botscript = 'https://github.com/DGXeon/CheemsBot-MD4' //script link
-global.reactmoji = "😘" //ur menu react emoji
+global.botname = 'KADIATA' //ur bot name
+global.linkz = "https://www.youtube.com/watch?v=6OIiFALJ9LU" //your theme url which will be displayed on whatsapp
+global.websitex = "https://www.youtube.com/watch?v=6OIiFALJ9LU" //ur website to be displayed
+global.botscript = 'https://github.com/ESSOYA/mybot' //script link
+global.reactmoji = "✔" //ur menu react emoji
 global.themeemoji = "🦄" //ur theme emoji
 global.packname = "Cheems Bot Stickers\n\n\n\n\n\n\n\n\n\n\n🦄🦄🦄 " //ur sticker watermark packname
-global.author = "🦄Dream Guy Xeon" //ur sticker watermark author
+global.author = "🦄YARANUSTRAS" //ur sticker watermark author
 
 //Bot theme media
 global.thum = fs.readFileSync("./XeonMedia/theme/cheemspic.jpg") //ur thumb pic
@@ -79,7 +79,7 @@ global.err4r = fs.readFileSync("./XeonMedia/theme/cheemspic.jpg") //ur error pic
 global.thumb = fs.readFileSync("./XeonMedia/theme/cheemspic.jpg") //ur thumb pic
 
 //damtabase
-global.premium = ['916909137213'] //ur premium numbers
+global.premium = ['24106813542'] //ur premium numbers
 global.ntilinkytvid = []
 global.ntilinkytch = []
 global.ntilinkig = []
@@ -106,19 +106,19 @@ global.prefa = ['','!','.','🐦','🐤','🗿']
 global.sp = '⭔'
 global.mess = {
     success: 'Done ✓',
-    admin: 'This Feature Is Only For Admin!',
-    botAdmin: 'Bot Must Be Admin First!',
-    owner: 'This Feature Is Only For Owner!',
-    group: 'Feature Used Only For Groups!',
-    private: 'Features Used Only For Private Chat!',
+    admin: 'il faut être admin man🤦‍♀️!',
+    botAdmin: 'je ne suis pas admin🤦‍♀️🤷‍♀️!',
+    owner: 'hum man mon owner est où👀!',
+    group: 'cette commande est que pour les groupe👀!',
+    private: 'cette commande est utilisée en inbox👀!',
     bot: 'This Feature Is Only For Bot',
-    wait: 'In process...',
-    linkm: 'Where is the link?',
-    error: 'Error!!',
+    wait: 'patientes un peu man😁...',
+    linkm: 'où est le lien👀?',
+    error: 'erreur oh🤦‍♀️!!',
     endLimit: 'Your Daily Limit Has Expired, The Limit Will Be Reset Every 12 Hours',
-    ban: 'You have been banned by the owner, if you want to be unbanned, chat owner.',
+    ban: 'banni par mon owner🤷‍♀️ , si tu veux ne veux plus être banni, cause avec mon owner😉.',
     nsfw: 'The nsfw feature has not been activated, please contact the admin to activate',
-    banChat: 'The bot was banned in this group, please contact the owner to unban'
+    banChat: 'le bot est banni du groupe 🤷‍♀️, contactez mon owner et laissez moi en paix 🤦‍♀️'
 }
     global.limitawal = {
     premium: "Infinity",
